@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "minimist": "0.0.9",
+    "validator": "^3.12.0",
+    "async": "^0.8.0",
+    "request": "^2.34.0",
+    "cheerio": "^0.15.0",
+    "winston": "^0.7.3",
+    "mkdirp": "^0.4.0"
+  }
+}
