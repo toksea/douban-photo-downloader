@@ -1,4 +1,5 @@
 {
+  "main": "./lib/downloader",
   "bin": {
     "douban-photos-downloader": "./bin/index"
   },
