@@ -1,4 +1,7 @@
 {
+  "bin": {
+    "douban-photos-downloader": "./bin/index"
+  },
   "dependencies": {
     "minimist": "0.0.9",
     "validator": "^3.12.0",
